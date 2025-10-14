@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_OU_GIF" width="600" alt="Banner do Perfil">
+  <img src="https://github.com/tatiane-prog/tatiane-prog/blob/main/assets/tatiane-prog.png?raw=true" width="600" alt="Banner do Perfil">
 </p>
 
 ## 👩‍💻 Sobre Mim
