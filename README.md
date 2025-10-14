@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por tecnologia e focada em criar soluções eficientes e elegantes. Atualmente, estou aprofundando meus estudos em MySQL, Python, Node, .NET e React e busco oportunidades para colaborar em projetos inovadores.
+Sou uma desenvolvedora apaixonada por tecnologia e focada em criar soluções eficientes e elegantes. Atualmente, estou aprofundando meus estudos em MySQL, Python, Node, C# e React e busco oportunidades para colaborar em projetos inovadores.
 
 ---
 
@@ -12,7 +12,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e focada em criar soluções ef
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mysql,js,ts,react,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=cs,py,mysql,js,ts,react,html,css,git" />
   </a>
 </p>
 
