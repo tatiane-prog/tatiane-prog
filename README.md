@@ -1,25 +1,32 @@
-### Olá! 👋 Sou Tatiane, uma desenvolvedora em formação.
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_OU_GIF" width="600" alt="Banner do Perfil">
+</p>
 
-Aqui estão algumas das tecnologias com as quais eu trabalho:
+## 👩‍💻 Sobre Mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
+Sou uma desenvolvedora apaixonada por tecnologia e focada em criar soluções eficientes e elegantes. Atualmente, estou aprofundando meus estudos em MySQL, Python, Node, .NET e React e busco oportunidades para colaborar em projetos inovadores.
 
 ---
 
-### Minhas Estatísticas no GitHub:
-  
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mysql,js,ts,react,html,css,git" />
+  </a>
+</p>
+
+---
+
+## 📫 Entre em Contato
+
+<p align="center">
+  <a href="tatyrafamares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https:/www.linkedin.com/in/tatiane-mares-2061b8b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
 <div align="center">
-  <a href="https://github.com/tatiane-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiane-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiane-prog&layout=compact&langs_count=7&theme=dracula"/>
 </div>
