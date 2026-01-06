@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tatiane-prog/tatiane-prog/blob/main/assets/tatiane-prog.png?raw=true" width="600" alt="Banner do Perfil">
+  <img src="https://raw.githubusercontent.com/tatiane-prog/tatiane-prog/main/assets/Fotos_Logo/Logo-transparente.png" width="600" alt="Banner Tatiane Mares">
 </p>
 
 ## 👩‍💻 Sobre Mim
