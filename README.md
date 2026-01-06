@@ -10,11 +10,20 @@ Sou uma desenvolvedora apaixonada por tecnologia e focada em criar soluções ef
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,mysql,js,ts,react,html,css,git" />
-  </a>
-</p>
+<h3 align="center">Tecnologias e Ferramentas</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
 
 ---
 
@@ -30,3 +39,6 @@ Sou uma desenvolvedora apaixonada por tecnologia e focada em criar soluções ef
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatiane-prog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatiane-prog&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+
